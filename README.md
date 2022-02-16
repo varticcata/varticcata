@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/Her/Hers
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=varticcata&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=varticcata&theme=blue-green)
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=varticcata)
 
