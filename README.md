@@ -4,7 +4,7 @@
 - 📫 How to reach me: vartic.cata@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=varticcata)
-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=varticcata&show_icons=true)
+
 
 
 
