@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Software Development at KEA
 - 📫 How to reach me: vartic.cata@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ![Profile View Counter](https://komarev.com/ghpvc/?username=varticcata)
 
 
 
