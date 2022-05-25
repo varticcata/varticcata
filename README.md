@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Unity Technologies
-- 🌱 I’m currently learning Software Development at KEA
+- 🔭 I’m working at Unity Technologies
+- 🌱 I’m studying Software Development at KEA
 - 📫 How to reach me: vartic.cata@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
